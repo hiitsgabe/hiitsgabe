@@ -30,7 +30,7 @@
 
 ### Projects that I am proud of
 
-- **2024**: As a Staff Engineer at [Zenvia](https://www.zenvia.com) (NASDAQ: ZENV), I led the development of a new micro-frontend architecture for the platform. The launch was a major success, attracting over 1,000 paying customers.  
+- **2024**: As a Staff Engineer at [Zenvia](https://www.zenvia.com) (NASDAQ: ZENV), I led the development of a new micro-frontend architecture for the platform. The launch was a major success, attracting over 10,000 paying customers.  
 - **2020**: I co-founded [Pingback.com](https://www.pingback.com), initially a Substack competitor. Over time, it evolved into a platform that enables companies to engage with their customers through blogs, newsletters, lead conversion pages, and other tools.  
 - **2019**: I played a key role in building an educational platform for the beauty industry, working closely with [Wella](https://www.wella.com/) to develop [WellaEdu](https://www.wellaedu.com.br). This project remains one of my proudest achievements, thanks to the incredible team I helped lead.  
 - **2016**: I joined [Mercatório](https://www.mercatorio.com.br) as its first developer and a co-founder. Mercatório transformed access to structured financial data in Brazil, delivering a platform that empowered banks and investment firms with Big Data insights for market strategy.  
