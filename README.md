@@ -30,7 +30,7 @@
 
 ### Projects that I am proud of
 
-- **2026** -: I helped create the AI agent structure for Trestle, helping general contractors reduce their workload by more than 40 hours a month.
+- **2026**: I helped create the AI agent structure for Trestle, helping general contractors reduce their workload by more than 40 hours a month.
 - **2025**: I published an academic paper at a relevant IEEE conference on web accessibility and the use of AI to improve it.
 - **2024**: As a Staff Engineer at Zenvia (NASDAQ: ZENV), I led the development of a new micro-frontend architecture for the platform. The launch was a major success, attracting over 10,000 paying customers.
 - **2020**: I co-founded Pingback.com, initially a Substack competitor. Over time, it evolved into a platform that enables companies to engage with their customers through blogs, newsletters, lead conversion pages, and other tools.  
