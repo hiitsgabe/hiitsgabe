@@ -10,7 +10,7 @@
 
 ###  Welcome to my Github
 
- I am a full-stack software engineer currently working as Senior Software Engineer @ (https://gotrestle.com)[Trestle].
+ I am a full-stack software engineer currently working as Senior Software Engineer @ [Trestle](https://gotrestle.com).
 
  I have been working with tech since 2014, and during this time I worked building and scaling some awesome projects. I love being part of a team and
  making tech possible. 
